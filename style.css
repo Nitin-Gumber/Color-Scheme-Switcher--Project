@@ -1,0 +1,50 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+#homepage {
+  margin: auto;
+  width: 80%;
+  text-align: center;
+}
+h1 {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+.button {
+  width: 5rem;
+  height: 5rem;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+#grey {
+  background-color: grey;
+}
+#white {
+  background-color: white;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
+#homepage h2 {
+  margin-top: 2rem;
+  padding: 1rem;
+}
+.add {
+  text-align: center;
+}
+.add h2 {
+  font-size: 2rem;
+  padding: 0.5rem;
+}
+.add a {
+  font-size: 2rem;
+  padding: 0.5rem;
+  color: black;
+}
